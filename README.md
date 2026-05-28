@@ -1,8 +1,1 @@
-# single-page-cv
-This is my first HTML CV project.
-## How to run
-Open index.html in a browser.
-### Project URL
-https://github.com/elongab/single-page-cv/blob/main/index.html
-### Live Demo
-https://github.com/elongab/single-page-cv/blob/main/index.html
+Project URL1: https://github.com/elongab/single-page-cv/edit/main/README.md
